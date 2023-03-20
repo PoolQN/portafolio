@@ -2,3 +2,14 @@
     text-align: center;
     font-size: 40px;
 }
+
+.parrafo {
+    text-align: center;
+    padding: 15px;
+    font-size: 25px;
+}
+
+.parrafo2 {
+    padding: auto;
+    font-size: 15px;
+}
